@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'test-python-webapp-postgres'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_659b00aee5a14a5b9699deda820b8b22 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_10a5b8e820204ea9a968c73c240b65d5 }}
